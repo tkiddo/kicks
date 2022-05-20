@@ -1,4 +1,4 @@
-import { getQueryString } from "../src/getQueryString";
+import { getQueryString } from "../src/index";
 
 test("getQueryString function", () => {
   const search = "?name=John&age=30";

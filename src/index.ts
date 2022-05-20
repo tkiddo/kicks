@@ -1,2 +1,2 @@
-export * from "./isObject";
-export * from "./getQueryString";
+export * from "./location/index";
+export * from "./object/index";
