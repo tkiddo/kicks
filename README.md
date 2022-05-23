@@ -1,1 +1,7 @@
 # kicks
+
+## install
+
+```
+npm install
+```
