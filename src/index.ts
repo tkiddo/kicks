@@ -1,2 +1,2 @@
-export * from "./location/index";
-export * from "./object/index";
+export * from "./common/index";
+export * from "./web/index";

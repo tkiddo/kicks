@@ -1,4 +1,4 @@
-import { isObject } from "../src/index";
+import { isObject } from "../object";
 
 test("isObject function", () => {
   expect(isObject(3)).toBe(false);
